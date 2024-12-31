@@ -1,4 +1,4 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+Project based on https://github.com/vercel/nextjs-subscription-payments/blob/main/utils/supabase/admin.ts
 
 ## Getting Started
 
